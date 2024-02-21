@@ -1,0 +1,9 @@
+{
+  "name": "Simple Night Light Slider",
+  "description": "Change Night Light",
+  "uuid": "simple-night-light-slider.nobody@nobody.com",
+  "shell-version": [
+    "45"
+  ],
+  "version": 1
+}
